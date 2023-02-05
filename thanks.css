@@ -1,0 +1,36 @@
+#thak_u_parent {
+  width: 50%;
+  height: 500px;
+  margin: auto;
+  padding: 20px;
+  box-shadow: rgba(182, 17, 17, 0.2) 0px 2px 8px 0px;
+  text-align: center;
+  line-height: 40px;
+  background-color: whitesmoke;
+}
+button {
+  margin-left: 45%;
+  font-size: medium;
+  font-weight: bold;
+  background-color: rgb(124, 114, 114);
+  color: white;
+  padding: 10px;
+  box-shadow: rgba(164, 81, 81, 0.2) 0px 2px 8px 0px;
+  box-shadow: 0cqb;
+}
+button:hover {
+  cursor: pointer;
+  background-color: white;
+  color: rgb(91, 34, 34);
+  border-radius: 8px;
+}
+
+#userdetails {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  /* border: 1px solid red; */
+  text-align: start;
+  line-height: 10px;
+  background-color: rgb(134, 172, 225);
+}
